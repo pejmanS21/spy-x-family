@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Loid Foger",
+        "job": "Psychiatric",
+        "secret": "Spy",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "codename": "Twilight",
+        "description": "Befitting of a spy, his true personality is rather cold and methodical, doing whatever it takes to complete the mission, from joining terrorist organizations to dating his target's daughter to becoming a father. However, he is shown to have a kind personality as shown when he rescued Anya Forger, even risking his identity as a spy. Twilight has served as a spy for at least ten years, after serving in the Westalian military for a few years (beginning when he was sixteen). Overall, Loid can be considered a jack of all trades, being extremely skilled both physically and mentally, able to adapt to near any situation and is only ever surpassed combat wise by superhumans like his wife.",
+        "imageName": "loid"
+    },
+    {
+        "name": "Anya Foger",
+        "job": "Student",
+        "secret": "Telepathy",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "codename": "Test Subject '007'",
+        "description": "Anya is a short young girl with fair skin and green eyes. Loid describes her as appearing about four to five years old at the oldest. Her green eyes are large and oval-shaped with prominent eyelashes. She has shoulder-length, light pink hair that curls inwards with a fringe that reaches just above her eyes and a small strand of ahoge at the top of her head. Anya is noticeably shorter than most of her peers and many of the insults Damian and his friends direct at her target her small size. As a young child, Anya is very impressionable towards the people around her. For instance, reading Loid's mind and acting in ways he found very odd and learning how to punch from Yor. Given her telepathic ability ostracizing her from people and her many foster homes, she instantly took to 'Twilight' for being a real spy. Since being adopted, she wanted to go wherever Loid was going in hopes of seeing the spy stuff she always sees on TV. But, after the events of Chapter 1, she has learned of the harshness of espionage and stopped messing with Loid's spy work. She is quite clever being able to spell long words by herself and helping Loid out as best she can, even nudging Loid and Yor together. She likes watching spy cartoons, her favorite being Spy Wars, and is often seen watching them whenever she can.",
+        "imageName": "anya"
+    },
+    {
+        "name": "Yor Foger",
+        "job": "Clerk",
+        "secret": "Assassin",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "codename": "Thorn Princess",
+        "description": "Yor is an attractive and fairly tall young woman with fair skin, long black hair and upturned red eyes. She splits her hair into two parts and crosses it over her head, securing it with a headband and forming two thick locks of hair that reach below her chest. When her hair is let down, she lacks the usual two thick locks of hair and her hair reaches about mid-back. Yor lacks social skills and initially comes across as a somewhat aloof individual, interacting minimally with her coworkers and being rather straightforward, and she's described by Camilla as a robot. Similarly, Yor is remarkably collected, able to keep her composure in the midst of combat. She is incredibly polite to the point of asking her assassination targets for 'the honor of taking their lives.' Despite her job, Yor is a genuinely kind person with a strong maternal and big sister instincts. After becoming a family with Loid and Anya, Yor becomes more expressive and opens up to her coworkers, asking for help on being a better wife or cooking. She is protective of her faux family, especially towards Anya whom she has no trouble defending with extreme violence.",
+        "imageName": "yor"
+    },
+    {
+        "name": "Bond Foger",
+        "job": "Dog",
+        "secret": "Precognition",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "codename": "Subject 8",
+        "description": "Bond’s large stature, long coat, and snout suggest he is a Great Pyrenees, being large enough for Anya Forger to comfortably ride on. He is a large dog of an indeterminate breed with fluffy white fur and black paws, noted by Anya to resemble the gloves and shoes of Bondman. His eyes are small and dark, with small ears that usually droop down. When his fur is wet, his body is revealed to be much thinner than his fur suggests. Bond is shown to be a very kind dog, as he uses his precognition abilities to rescue a child from being hit by a falling board and assists Anya in changing the future to prevent the death of Loid Forger. He also helps Anya to retrieve her favorite pair of gloves from a fierce dog by intimidating him. However, he's also shown to be overzealous and quick to seek gratification, often resulting in him jumping the gun and actually causing the misfortunes he was tries to prevent.",
+        "imageName": "bond"
+    },
+    {
+        "name": "Fiona Frost",
+        "job": "Assistant",
+        "secret": "Spy",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "codename": "Nightfall",
+        "description": "Fiona is a pale woman of average height with bobbed hair of a light lavender color and a long fringe covering much of the right side of her face, worn swept behind her left ear. She has cold purple eyes framed by light-colored eyelashes, and most often is seen wearing an emotionless expression. After being trained by Loid Forger to hide her true emotions, Fiona tends to remain emotionless on the surface—even when making a mental confession of love to Loid she kept her stone-cold face plastered on.[3] She thinks of herself as the superior partner to Loid and wishes to separate him from Yor Forger so they can be together.",
+        "imageName": "fiona"
+    }
+]
